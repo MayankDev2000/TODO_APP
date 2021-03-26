@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO APP</string>
+    <string name="save">Save</string>
+    <string name="sample">Sample Todo Here</string>
+</resources>
